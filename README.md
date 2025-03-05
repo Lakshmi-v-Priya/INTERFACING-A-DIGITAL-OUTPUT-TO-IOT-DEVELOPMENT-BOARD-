@@ -99,12 +99,10 @@ int main(void)
 ```
 
 ## OUTPUT  :
- ![WhatsApp Image 2025-03-05 at 11 43 30_bee1f46f](https://github.com/user-attachments/assets/7bbfb451-e67a-49f8-a2f5-0a44729b24c8)
+![off](https://github.com/user-attachments/assets/3f6ba13f-40d0-40d3-afdb-d0fe498cc5bc)
 
-![WhatsApp Image 2025-03-05 at 11 43 29_78fd82bb](https://github.com/user-attachments/assets/b50db0c1-caa1-48fd-9b2e-3a95d94a5a8b)
+ ![on](https://github.com/user-attachments/assets/8001bdee-61f2-4925-a896-07378fd2d000)
 
- 
- 
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
