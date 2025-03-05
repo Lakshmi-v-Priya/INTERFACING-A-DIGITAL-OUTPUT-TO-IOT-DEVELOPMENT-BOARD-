@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 05.03.2025
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Lakshmi Priya .V
+###  ROLL NO : 212223220049
+###  DEPARTMENT: B.Tech (IT)
 
 
 
@@ -81,18 +81,28 @@ The main features of LPC2148 include the following.
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
 
-
-
-
-
 ## STM 32 CUBE PROGRAM :
 
-
-
-
+```
+#include "main.h"
+#include "stdio.h"
+int main(void)
+{
+  while (1)
+  {
+    HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0, GPIO_PIN_RESET);
+    HAL_Delay(1000);
+    HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0, GPIO_PIN_SET);
+    HAL_Delay(1000);
+  }
+}
+```
 
 ## OUTPUT  :
- 
+ ![WhatsApp Image 2025-03-05 at 11 43 30_bee1f46f](https://github.com/user-attachments/assets/7bbfb451-e67a-49f8-a2f5-0a44729b24c8)
+
+![WhatsApp Image 2025-03-05 at 11 43 29_78fd82bb](https://github.com/user-attachments/assets/b50db0c1-caa1-48fd-9b2e-3a95d94a5a8b)
+
  
  
  
